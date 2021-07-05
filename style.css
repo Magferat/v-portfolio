@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: rgb(219, 116, 219);
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 10%;
+}
+.width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( violet, to rgb(82, 97, 165));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+
+}
